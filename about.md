@@ -5,4 +5,4 @@ title: About
 
 # About page
 
-This page tells toy a little bit about me
+This page tells you a little bit about me
