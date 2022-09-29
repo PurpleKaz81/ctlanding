@@ -1,2 +1,2 @@
 # ctlanding
-Landing page using Jekyll
+Landing page using Jekyll and Liquid
